@@ -1,8 +1,8 @@
-# WEB102 Prework - *GameFunding*
+# WEB102 Prework - *FrostHaven*
 
 Submitted by: Blessing Ngara
 
-GameFunding is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+FrostHaven is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
 Time spent: 7.5 hours spent in total
 
