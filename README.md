@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src= 'https://imgur.com/NnWTkpE.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/NnWTkpE.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 GIF created with  https://getsharex.com/ ShareX for windows 
